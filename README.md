@@ -1,2 +1,2 @@
 # AGROPREÇO
-Trabalho realizado pelas alunas Marina, Malak, Maria Geovanna, João Pedro
+Trabalho realizado por; Marina, Malak, Maria Geovanna, João Pedro
